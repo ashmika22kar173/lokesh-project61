@@ -1,0 +1,117 @@
+img {
+    height: 150px;
+    width: 120px;
+    margin-top: 70px;
+}
+
+body {
+    text-align: center;
+    background: linear-gradient(#03A9F4 0%, #FFFF00 100%);
+}
+
+h1 {
+    font-size: 35px;
+    text-shadow: 2px 1px;
+}
+
+p {
+    font-size: 20px;
+    font-family: sans-serif:
+}
+
+div {}
+
+.menu {
+    list-style: none;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+    z-index: 10;
+    position: absolute;
+
+}
+
+.links {
+    float: left;
+    color: purple;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-size: 20px;
+    border: 2px solid #448ee4;
+}
+
+.links hiver {
+    background-image: linear-gradient(pink, Lavender, skyblue);
+    font-size: 25px;
+    text-decoration: underline;
+    color: aqua;
+    font-family: fantasy;
+}
+
+a {
+    text-decoration: none;
+    font-size: 20px;
+
+}
+
+a:hover {
+    text-decoration: underline;
+    font-size: 25px;
+}
+
+.picture.hover {
+
+    color: purple;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+#player {
+    background-image: linear-gradient(pink, #f2ab29, yellow);
+}
+
+#inspiration {
+    background-image: linear-gradient(skyblue, Lavender, yellow);
+}
+
+.image {
+    width: 300px;
+}
+
+#books {
+    background-image: linear-gradient(skyblue, Lavender, yellow);
+
+}
+
+img {
+    width: 300px;
+    height: 250px;
+    border-radius: 5px;
+    transition: transform .2s;
+
+}
+
+img:hover {
+    border: 4px solid black;
+    transform: scale(0.9);
+}
+#contact{
+    background-image: linear-gradient(#f2d59f,lavender);
+}
+h3{
+    color: red;
+    text-decoration: underline;
+    text-shadow: pink;
+    font-size: 25px;
+}
+#hobby{
+    background-image: linear-gradient(yellow,skyblue,lavender,skyblue,yellow);
+    
+    
+}
